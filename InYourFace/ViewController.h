@@ -1,5 +1,5 @@
 //
-//  IFAlertDelegateViewController.h
+//  ViewController.h
 //  InYourFace
 //
 //  Created by Joshua Howland on 6/5/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface IFAlertDelegateViewController : UIViewController
+@interface ViewController : UIViewController
 
 @end

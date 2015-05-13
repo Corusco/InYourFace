@@ -1,18 +1,18 @@
 //
-//  IFAlertDelegateViewController.m
+//  ViewController.m
 //  InYourFace
 //
 //  Created by Joshua Howland on 6/5/14.
 //  Copyright (c) 2014 DevMountain. All rights reserved.
 //
 
-#import "IFAlertDelegateViewController.h"
+#import "ViewController.h"
 
-@interface IFAlertDelegateViewController ()
+@interface ViewController ()
 
 @end
 
-@implementation IFAlertDelegateViewController
+@implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -44,15 +44,13 @@
 
 - (NSArray *)lines {
 
-    return @[@"If peeing your pants is cool, consider me Miles Davis",
+    return @[@"Oh, I see what's goin on here. So sorry to interrupt. Proceed.",
              @"We don't need no stinking badges",
-             @"Thank you very little",
+             @"You know, Scotland has its own martial arts. Yeah, it's called fuh-queue!",
              @"You can't fight in here. This is a war room.",
              @"There's no crying in baseball",
-             @"I have nipples, greg. Could you milk me?",
-             @"You could be drinking whole, if you wanted to.",
-             @"Fat guy in a little coat",
-             @"How can we be expected to teach children how to read if they can't even fit inside the building?"];
+             @"The answer is 42",
+             @"Yeah, Tommy. Before zee Germans get here."];
     
 }
 
